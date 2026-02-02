@@ -6,9 +6,6 @@ import { Right } from "./_components/Right";
 export default function Home() {
   return (
     <>
-      <div className="h-14 shadow-sm">
-        <Navbar />
-      </div>
       <div className="h-screen flex ml-[200px] mt-6">
         <Left />
         <Center />

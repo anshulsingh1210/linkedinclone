@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "650000000000000000000001",
+    "name": "Anshul Singh",
+    "username": "anshul",
+    "email": "anshul@gmail.com",
+    "password": "hashed_pw_1",
+    "skills": ["React", "Node.js"],
+    "connections": ["650000000000000000000002"],
+    "createdAt": "2024-01-01T10:00:00.000Z",
+    "updatedAt": "2024-01-01T10:00:00.000Z"
+  },
+  {
+    "_id": "650000000000000000000002",
+    "name": "Priya Verma",
+    "username": "priya",
+    "email": "priya@gmail.com",
+    "password": "hashed_pw_2",
+    "skills": ["UI/UX", "Figma"],
+    "connections": ["650000000000000000000001"],
+    "createdAt": "2024-01-01T10:05:00.000Z",
+    "updatedAt": "2024-01-01T10:05:00.000Z"
+  },
+  {
+    "_id": "650000000000000000000003",
+    "name": "Rahul Mehta",
+    "username": "rahul",
+    "email": "rahul@gmail.com",
+    "password": "hashed_pw_3",
+    "skills": ["Backend", "MongoDB"],
+    "connections": [],
+    "createdAt": "2024-01-01T10:10:00.000Z",
+    "updatedAt": "2024-01-01T10:10:00.000Z"
+  }
+]

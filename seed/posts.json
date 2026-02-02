@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "660000000000000000000001",
+    "author": "650000000000000000000001",
+    "content": "Started learning advanced React hooks today 🚀",
+    "likes": ["650000000000000000000002"],
+    "comments": [],
+    "createdAt": "2024-01-02T09:00:00.000Z",
+    "updatedAt": "2024-01-02T09:00:00.000Z"
+  },
+  {
+    "_id": "660000000000000000000002",
+    "author": "650000000000000000000001",
+    "content": "Built a LinkedIn clone using MERN stack!",
+    "likes": [],
+    "comments": [],
+    "createdAt": "2024-01-03T09:00:00.000Z",
+    "updatedAt": "2024-01-03T09:00:00.000Z"
+  },
+
+  {
+    "_id": "660000000000000000000003",
+    "author": "650000000000000000000002",
+    "content": "Design consistency is key to great UX.",
+    "likes": ["650000000000000000000001"],
+    "comments": [],
+    "createdAt": "2024-01-02T10:00:00.000Z",
+    "updatedAt": "2024-01-02T10:00:00.000Z"
+  },
+  {
+    "_id": "660000000000000000000004",
+    "author": "650000000000000000000002",
+    "content": "Exploring new Figma plugins today ✨",
+    "likes": [],
+    "comments": [],
+    "createdAt": "2024-01-03T10:00:00.000Z",
+    "updatedAt": "2024-01-03T10:00:00.000Z"
+  },
+
+  {
+    "_id": "660000000000000000000005",
+    "author": "650000000000000000000003",
+    "content": "Database indexing can drastically improve performance.",
+    "likes": [],
+    "comments": [],
+    "createdAt": "2024-01-02T11:00:00.000Z",
+    "updatedAt": "2024-01-02T11:00:00.000Z"
+  },
+  {
+    "_id": "660000000000000000000006",
+    "author": "650000000000000000000003",
+    "content": "Learning aggregation pipelines in MongoDB.",
+    "likes": [],
+    "comments": [],
+    "createdAt": "2024-01-03T11:00:00.000Z",
+    "updatedAt": "2024-01-03T11:00:00.000Z"
+  }
+]

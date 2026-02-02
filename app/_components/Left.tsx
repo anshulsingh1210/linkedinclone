@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 export const Left = () => {
   return (
-    <div className='w-[300px] h-[400px] shadow-2xl '>
+    <div className='w-[300px] h-[400px] shadow-2xl border-1 border-[#dedee0] rounded-lg'>
       <div className='relative ml-5 mr-5 mt-2 h-[80px] p-4 rounded-xl'>
         {/* Cover Image */}
         <Image
@@ -35,6 +35,8 @@ export const Left = () => {
         <div className='ml-2 mb-2 text-[#7f8081]'>My Network</div>
         <div className='ml-2 text-[#7f8081]'>Notifications</div>
       </div>
+
+      <div className='text-[#6c6c6d] mt-2 text-sm ml-4 h-[40px] flex items-center'>Visit your profile</div>
     </div>
   )
 }
